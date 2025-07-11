@@ -21,7 +21,7 @@ about.html → About Me section
 family.html → Family showcase                                                                                                                                       
 projects.html → List of personal projects                                                                                                                           
 contact.html → Contact form (static layout only)                                                                                                                    
-style.css → Main stylesheet for all pages
+style.css → Main stylesheet for all pages                                                                                                                           
 README.md → Project description and usage                                                                                                                           
 
 ## 🎯 Key Features
