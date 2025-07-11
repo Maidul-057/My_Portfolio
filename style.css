@@ -477,6 +477,10 @@ button[type="submit"]:hover {
     display:flex;
     flex-direction:column;}
 
-.footer{ width:100%;}
+footer{ position: fixed;
+  width:100%;
+
+}
+body{  margin-bottom: 30vh;}
   
 }
