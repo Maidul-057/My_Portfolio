@@ -16,7 +16,7 @@ https://maidul-057.github.io/My_Portfolio/
 
 ## 📁 Project Structure
 
-index.html → Home page
+index.html → Home page                                                                                                                                              
 about.html → About Me section
 family.html → Family showcase
 projects.html → List of personal projects
