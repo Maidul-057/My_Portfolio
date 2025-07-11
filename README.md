@@ -9,7 +9,7 @@ https://maidul-057.github.io/My_Portfolio/
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – For structuring the content  
+- **HTML5** – For structuring the content 
 - **CSS3** – For layout, styling, and responsiveness  
 - **Flexbox** – Used to create flexible layouts  
 - **Media Queries** – For mobile responsiveness and adaptive design  
