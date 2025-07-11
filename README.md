@@ -32,7 +32,7 @@ README.md → Project description and usage
 - ✅ Sectioned content with headings, images, and descriptions  
 - ✅ Contact form layout (non-functional)  
 - ✅ Styled footer with links and consistent layout
-- 
+  
 ## 📱 Responsive Design
 
 The site is built to adapt across various screen sizes using media queries:
