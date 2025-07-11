@@ -13,6 +13,7 @@
       <div class="namelogo">
         <a href="index.html">Maidul Islam</a>
       </div>
+      <div class="hide">
       <ul>
         <li><a href="index.html"><i class="fa fa-home"> Home</i></a></li>
         <li><a href="about_me.html"><i class="fa fa-user"> About me</i></a></li>
@@ -21,6 +22,18 @@
         <li><a href="projects.html"><i class="fa fa-trophy"> Projects</i></a></li>
         <li><a href="contact.html"><i class="fa fa-phone"> Contact</i></a></li>
       </ul>
+      </div>
+<div class="menu-icon" onclick="toggleMenu()">☰</div>
+  <div id="nav-links" class="nav-links">
+    <ul>
+    <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+    <li><a href="About_me.html"><i class="fa fa-user"></i> About me</a></li>
+    <li><a href="Family.html"><i class="fa fa-users"></i> Family</a></li>
+    <li><a href="#"><i class="fa fa-graduation-cap"></i> Achievement</a></li>
+    <li><a href="projects.html"><i class="fa fa-trophy"></i> Projects</a></li>
+    <li><a href="contact.html"><i class="fa fa-phone"></i> Contact</a></li>
+    </ul>
+  </div>
     </nav>
   </header>
   <div class="fam_1st_div">
@@ -110,5 +123,11 @@
     <div class="email">maidulislamzishan@gmail.com<br />Sylhet, Bangladesh</div>
     <div class="2025">2025 Maidul Islam. All rights reserved.</div>
   </footer>
+<script>
+function toggleMenu() {
+  var navLinks = document.getElementById("nav-links");
+  navLinks.classList.toggle("show");
+}
+</script>
 </body>
 </html>
