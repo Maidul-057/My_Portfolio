@@ -17,12 +17,12 @@ https://maidul-057.github.io/My_Portfolio/
 ## 📁 Project Structure
 
 index.html → Home page                                                                                                                                              
-about.html → About Me section
-family.html → Family showcase
-projects.html → List of personal projects
-contact.html → Contact form (static layout only)
+about.html → About Me section                                                                                                                                       
+family.html → Family showcase                                                                                                                                       
+projects.html → List of personal projects                                                                                                                           
+contact.html → Contact form (static layout only)                                                                                                                    
 style.css → Main stylesheet for all pages
-README.md → Project description and usage
+README.md → Project description and usage                                                                                                                           
 
 ## 🎯 Key Features
 
